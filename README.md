@@ -14,10 +14,15 @@ Introduction
 This project provides a simple and efficient solution for detecting cars and pedestrians using OpenCV's implementation of the Haar Cascade algorithm. It's suitable for applications such as traffic monitoring, surveillance, and more.
 
 Requirements
+
 Python 3.x
+
 OpenCV
+
 NumPy
+
 Installation
+
 Clone the repository:
 
 bash
