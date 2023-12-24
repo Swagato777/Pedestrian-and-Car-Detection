@@ -34,17 +34,21 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/SWagaTo777/opencv-car-pedestrian-detection.git
+
+
 Change into the project directory:
 
 bash
 Copy code
 cd opencv-car-pedestrian-detection
+
+
 Install the required dependencies:
 
 bash
 Copy code
 pip install -r requirements.txt
-Usage
+# Usage
 Run the car_pedestrian_detection.py script to start the detection on a video file or webcam feed. Customize the script parameters to suit your needs.
 
 bash
@@ -69,7 +73,25 @@ Image Detection
 bash
 Copy code
 python car_pedestrian_detection.py --image path/to/your/image.jpg
-Contributing
+
+# Examples
+Video Detection 
+
+
+bash
+
+python car_pedestrian_detection.py --video path/to/your/video.mp4
+
+
+Image Detection
+
+
+bash
+
+python car_pedestrian_detection.py --image path/to/your/image.jpg
+# Contributing
+
+
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 Fork the repository.
