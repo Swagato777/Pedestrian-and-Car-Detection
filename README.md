@@ -4,12 +4,18 @@ OpenCV Car and Pedestrian Detection
 This project utilizes OpenCV and the Haar Cascade algorithm to perform real-time detection of cars and pedestrians in images or video streams. The Haar Cascade classifier is a machine learning object detection method used to identify objects in images or video.
 
 # Table of Contents
-#Introduction
-#Requirements
-#Installation
-#Usage
-#Examples
-#Contributing
+Introduction
+
+Requirements
+
+Installation
+
+Usage
+
+Examples
+
+Contributing
+
 # Introduction
 This project provides a simple and efficient solution for detecting cars and pedestrians using OpenCV's implementation of the Haar Cascade algorithm. It's suitable for applications such as traffic monitoring, surveillance, and more.
 
