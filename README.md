@@ -71,9 +71,5 @@ Fork the repository.
 Create a new branch: git checkout -b feature/my-feature.
 
 # License
-This project is licensed under the MIT License
-Commit your changes: git commit -m 'Add my feature'.
-Push to the branch: git push origin feature/my-feature.
-Submit a pull request.
-License
+
 This project is licensed under the MIT License.For more information on repository licenses, see "Licensing a repository."
