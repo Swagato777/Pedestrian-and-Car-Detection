@@ -72,4 +72,4 @@ Create a new branch: git checkout -b feature/my-feature.
 
 # License
 
-This project is licensed under the MIT License.For more information on repository licenses, see "Licensing a repository."
+This project is licensed under the MIT License.
