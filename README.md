@@ -100,6 +100,4 @@ Fork the repository.
 
 Create a new branch: git checkout -b feature/my-feature.
 
-# License
 
-This project is licensed under the MIT License.
